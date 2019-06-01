@@ -4,10 +4,10 @@ Prototypal Bitcoin Node Configuration for a Low Memory Environment
 
 ## Getting Started
 
-Located in this repository is a configuration file for running
-[Bitcoin](https://bitcoin.org/en/download) in a low memory environment. The
-configuration file is a list of setting=value pairs, one per line, with optional
-comments starting with the '#' character.
+Located in this repository is a [configuration file](Bitcoin/bitcoin.conf) for
+running [Bitcoin](https://bitcoin.org/en/download) in a low memory environment.
+The configuration file is a list of setting=value pairs, one per line, with
+optional comments starting with the '#' character.
 
 By default when running Bitcoin, Bitcoin will look for this a file in the
 bitcoin data directory, but both the data directory and the configuration file

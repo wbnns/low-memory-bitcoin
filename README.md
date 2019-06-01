@@ -1,4 +1,4 @@
-# Low Memory Bitcoin Node
+# Low Memory Bitcoin
 
 Prototypal Bitcoin Node Configuration for a Low Memory Environment
 

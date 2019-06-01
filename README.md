@@ -17,7 +17,7 @@ The configuration file is not automatically created; you can create it using
 your favorite plain-text editor, or use the `bitcoin.conf` file located in this
 repository.
 
-### Prerequisites
+## Prerequisites
 
 In order to take advantage of this repository, first make sure you are [Running
 Bitcoin](https://en.bitcoin.it/wiki/Running_Bitcoin).

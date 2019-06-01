@@ -22,13 +22,9 @@ repository.
 In order to take advantage of this repository, first make sure you are [Running
 Bitcoin](https://en.bitcoin.it/wiki/Running_Bitcoin).
 
-## Versioning
-
-`1.0.0`
-
 ## Maintainer
 
-Will Binns (GitHub/Telegram/Twitter: @wbnns | Web: https://willbinns.org/)
+[Will Binns](https://willbinns.org/) (GitHub/Telegram/Twitter: @wbnns)
 
 ## License
 

@@ -1,4 +1,4 @@
 # Support
 
 ## Questions:
-Will Binns (GitHub/Telegram/Twitter: @wbnns | Web: https://willbinns.org/)
+[Will Binns](https://willbinns.org/) (GitHub/Telegram/Twitter: @wbnns)

@@ -9,7 +9,7 @@ running [Bitcoin](https://bitcoin.org/en/download) in a low memory environment.
 The configuration file is a list of setting=value pairs, one per line, with
 optional comments starting with the '#' character.
 
-By default when running Bitcoin, Bitcoin will look for this a file in the
+By default when running Bitcoin, Bitcoin will look for this file in the
 bitcoin data directory, but both the data directory and the configuration file
 path may be changed using the -datadir and -conf command-line arguments.
 

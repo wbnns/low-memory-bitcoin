@@ -1,6 +1,6 @@
 # Low Memory Bitcoin
 
-Prototypal Bitcoin Node Configuration for a Low Memory Environment
+Prototypal Bitcoin Configuration for a Low Memory Environment
 
 ## Getting Started
 
